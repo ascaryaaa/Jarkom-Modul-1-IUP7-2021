@@ -7,7 +7,15 @@
 
 11. Picks up packets coming from port = 80
 
+    Using capture filter ‘tcp src port 80’
+    
+    ![image](https://user-images.githubusercontent.com/73812417/134704773-195b646f-8119-455e-8ec9-28ce0a4cd9a1.png)
+
 12. Picks up packets containing port = 21
+
+    Using capture filter ‘tcp src port 21’
+    
+    ![image](https://user-images.githubusercontent.com/73812417/134704822-94e68d41-1558-4b10-a4e0-7d1cc7a5cd15.png)
 
 13. Shows packets going to port = 443
 
